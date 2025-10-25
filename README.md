@@ -19,6 +19,7 @@ A modern React application for downloading the SIID (Salesforce Intelligence Int
 - Tailwind CSS for styling
 - Lucide React for icons
 - Axios for HTTP requests
+- Axios for HTTP requests
 - Firebase Hosting
 - GitHub Actions for CI/CD
 
